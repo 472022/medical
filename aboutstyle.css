@@ -1,0 +1,48 @@
+.head h1{
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.About h4{
+font-weight: bold;
+color: black;
+margin-bottom: 30px;
+letter-spacing: 2px;
+}
+.About p{
+    font-size: 15px;
+    color: black;
+    letter-spacing: 2px;
+}
+.clinic,.service,.teams{
+    margin-bottom: 40px;
+}
+
+.container,.col-4{
+    margin-bottom: 50px;
+
+
+}
+.container .col-4  img{
+   
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+}
+
+.container .col-4 a p{
+   
+    margin-top: -70px;
+    text-align:center;
+  
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+.container .col-4 a p:hover{
+    transform: scale(0.9);
+border: 1px solid rgb(230, 226, 226);
+
+}
