@@ -13,5 +13,29 @@
    font-size: 30px;
    font-weight: bold;
    color: white;
-  
+}
+
+.table-head,.table-list li{
+margin-left: 0px;
+color: black;
+font-size: 16px;
+}
+
+.section-title{
+margin-top: 60px;
+margin-bottom: -5px;
+
+}
+
+.section-title p{
+    color: black;
+}
+.row,.table-list h5{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.row,.table-list li{
+    color: black;
+    
 }
