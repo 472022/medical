@@ -1,0 +1,19 @@
+.Start{
+    background-image: url("img/Our-Service-q8vdokygsf33flt5lbrslq86xvz98pykac93ftai3c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height: 300px;
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+}
+
+.Start h3{
+    color: black;
+    display: flex;
+    justify-content: center;
+   padding-top: 150px;
+   font-size: 30px;
+   font-weight: bold;
+   color:black;
+}
